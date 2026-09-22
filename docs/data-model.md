@@ -2,7 +2,7 @@
 
 ```
 Version: 0.1
-Last updated: 2026-09-16
+Last updated: 2026-09-20
 Purpose: Define tables and fields for the project.
 ```
 
@@ -97,7 +97,7 @@ Purpose: Define tables and fields for the project.
 | # involved | IDOT | rare | recheck schedule? |
 | severity | IDOT | rare | recheck schedule? |
 | ambulance | IDOT | rare | recheck schedule? |
-| medical outcomes |  | rare | recheck schedule? |
+| medical outcomes | IDOT? | rare | recheck schedule? |
 
 ## `path_score`
 
